@@ -1,0 +1,15 @@
+{
+  "name": "careervation",
+  "version": "1.0.0",
+  "description": "career elevation project that provide tips and helps people to reach their goals in their jobs",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "mohammed abboudi",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "node-sass": "^9.0.0"
+  }
+}
